@@ -4,7 +4,7 @@ import FakeStorageProvider from '@shared/container/providers/StorageProvider/fak
 import FakeUserRepository from '../repositories/fakes/FakeUserRepository';
 import UpdateUserAvatarService from './UpdateUserAvatarService';
 
-describe('CreateUser', () => {
+describe('UpdateUserAvatar', () => {
   it('should be able to update user avatar', async () => {
     const fakeUsersRepository = new FakeUserRepository();
     const fakeStorageProvider = new FakeStorageProvider();
