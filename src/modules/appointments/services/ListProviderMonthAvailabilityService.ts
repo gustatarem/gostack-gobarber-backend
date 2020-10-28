@@ -53,8 +53,6 @@ class ListProviderMonthAvailabilityService {
       };
     });
 
-    console.log(appointments);
-
     return availability;
   }
 }
