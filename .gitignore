@@ -7,5 +7,7 @@ coverage/
 .env
 ormconfig.json
 
-tmp/*
+tmp/*.jpg
+tmp/*.jpeg
+tmp/*.png
 !tmp/.gitkeep
