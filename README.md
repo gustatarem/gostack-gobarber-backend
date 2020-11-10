@@ -7,7 +7,7 @@
 </h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/gustatarem/" target="_blank" rel="noopener noreferrer">
+  <a href="https://www.linkedin.com/in/gustavo-tatarem/" target="_blank" rel="noopener noreferrer">
     <img alt="Made by" src="https://img.shields.io/badge/made%20by-gustavo%20tatarem-%23FF9000">
   </a>
   
