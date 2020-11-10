@@ -40,7 +40,7 @@ O GoBarber é uma aplicação de agendamentos em barbearias, onde os usuários p
 
 Este repositório possui o código referente a parte backend da aplicação, onde está armazenada toda a lógica por trás desde a criação de uma conta até a realização de um agendamento.
  
-Para acessar a **versão web**, clique aqui: [GoBarber Web](https://github.com/gustatarem/gostack-gobarber-web)
+Para acessar a **versão web**, clique aqui: [GoBarber Web](https://github.com/gustatarem/gostack-gobarber-web)<br />
 Para acessar a **versão mobile**, clique aqui: [GoBarber Mobile](https://github.com/gustatarem/appgobarber)
  
 ## 🚀 Tecnologias
